@@ -1,0 +1,22 @@
+{
+  "name": "python-api-example",
+  "version": "1.0.0",
+  "description": "A python API example",
+  "main": "python run.py",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "black . && flake8 . --ignore=E501,E302",
+    "start": "python run.py"
+  },
+  "keywords": [
+    "python",
+    "python",
+    "api",
+    "example",
+    "python",
+    "template",
+    "api",
+    "template"
+  ],
+  "license": "MIT"
+}
