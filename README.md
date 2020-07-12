@@ -38,4 +38,10 @@ npm start
 
 ```
 
+
 Head over to http://0.0.0.0:80/ for seeing locally served README.md.
+
+### Continuous development
+
+The CI builds on github actions are only triggered if a developer commit message contains the phrase - "build". The development commits that do not need a CI build to be triggered, just do not use the phrase `build` in commit messages.
+
