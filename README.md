@@ -2,7 +2,7 @@
 
 # python-api-example
 
-A flask based simple Python API example.
+A flask based simple Python API template hooked to Github Actions CI.
 
 ## Setup
 
